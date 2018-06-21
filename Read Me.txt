@@ -1,5 +1,3 @@
-# 2D convolution using CUDA
-
 implementation of 2D convolution 
 
 All project include a Gaussian filter kernal(standard deviation can be adjusted it also support large standard deviation) and 5X5 vertical Sobel filter kernels. Other filters can be added. 
